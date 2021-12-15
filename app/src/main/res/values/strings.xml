@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spam-Man</string>
+    <string name="nav_header_title">Spam-Man. Eat all the garbage!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Add keywords</string>
+    <string name="menu_slideshow">About</string>
+</resources>
